@@ -1,8 +1,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.fluidlinklist">
    <application
-        android:label="fluidlinklist"
-        android:icon="@mipmap/ic_launcher">
+        android:label="fluid link"
+        android:icon="@mipmap/launcher_icon">
         <activity
             android:name=".MainActivity"
             android:screenOrientation="portrait"
